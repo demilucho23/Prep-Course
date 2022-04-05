@@ -1,0 +1,19 @@
+.divClass h1{
+			color: red;
+		}
+		#thirdDiv {
+			;
+			border:3 px solid yellowgreen;
+			padding: 50px;
+			width: 500px;
+			height: 600px;
+			background: blue;
+		}
+		img {
+			width: 400px;
+		}
+		#spanId {
+			margin: 50px;
+			font-size: 18px;
+
+		}
