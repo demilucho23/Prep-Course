@@ -72,8 +72,8 @@ function filter(array) {
   // for (i= 0; i<array.length; i++ )
   // array[i][0]==="a"? array2.push(array[i]) : null
   // return array2
-  var array2 = array.filter(function(elemnto){
-    return elemnto[0].toLowerCase()==="a"
+  var array2 = array.filter(function(elemento){
+    return elemento[0].toLowerCase().trim()==="a"
   });
   return array2
 }
